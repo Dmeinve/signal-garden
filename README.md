@@ -1,6 +1,7 @@
 # Signal Garden
 
 Signal Garden is a small, camera-based interactive artwork about how a visual signal changes with distance. It is intended as a low-pressure, user-controlled sensory interaction, with autistic children as a possible audience. It does not represent every autistic person's experience, and it is not a medical, therapeutic, diagnostic, or emotion-recognition tool.
+The neon, fragmented visuals are an abstract metaphor for sensory overload, which some autistic people may experience; they do not represent every autistic person’s experience.
 
 ## Screenshot
 
